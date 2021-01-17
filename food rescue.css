@@ -1,0 +1,30 @@
+body{
+background-image: url("https://www.foodiesfeed.com/wp-content/uploads/2019/05/red-fruit-and-vegetables-on-a-white-background-2.jpg");
+background-size: cover;
+font-family: 'Cookie', cursive;
+}
+h1{
+font-size: 60px;
+color: #FA5882;
+text-align: center;
+}
+
+div{
+height:500px;
+}
+p{
+font-size: 50px;
+text-align: center;
+color: #0B615E;
+}
+.order{
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+color: green;
+ padding: 15px 32px;
+ text-align: center;
+ display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+position: center;
+}
